@@ -8,5 +8,4 @@
 - 📫 How to reach me: lucws2002@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucwss&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucwss&hide_progress=true&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
